@@ -1,0 +1,2 @@
+SELECT DECODE(GENDER, '³²¼º', 1, 2) FROM DUAL;
+
